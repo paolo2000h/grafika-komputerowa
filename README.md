@@ -1,1 +1,1 @@
-# grafika-komputerowa
+## Project files for Grafika Komputerowa laboratories.
