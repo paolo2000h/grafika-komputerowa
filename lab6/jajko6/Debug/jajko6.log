@@ -1,0 +1,3 @@
+﻿  jajko6.cpp
+C:\Users\paolo\source\repos\jajko6\jajko6\jajko6.cpp(779,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  jajko6.vcxproj -> C:\Users\paolo\source\repos\jajko6\Debug\jajko6.exe
